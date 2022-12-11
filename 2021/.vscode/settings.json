@@ -1,0 +1,4 @@
+{
+  "mypy.runUsingActiveInterpreter": false,
+  "python.linting.mypyEnabled": false
+}
